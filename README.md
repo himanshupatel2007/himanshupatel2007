@@ -1,10 +1,9 @@
 # Himanshu Patel
 
-Full-Stack Developer focused on **backend systems, API design, and scalable web applications.**
+Full-Stack Developer focused on backend systems, API design, and scalable web applications.
 
-I enjoy building applications that go beyond simple UI projects — focusing on backend architecture, database design, and real-world workflows. My work primarily involves designing REST APIs, managing data flow, and integrating frontend systems with efficient backend services.
+I enjoy building real-world applications with strong backend architecture, authentication systems, and database-driven workflows. I’m especially interested in understanding how networks and large-scale applications work, and how different systems interact with each other.
 
-Currently working on building full-stack applications with a strong focus on backend development, authentication systems, and database-driven platforms.
 
 My interests include:
 
@@ -95,7 +94,7 @@ My interests include:
 
 <tr>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="55" height="55"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br>
 <b>Database</b>
 </td>
 
