@@ -1,108 +1,141 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshupatel2007/himanshupatel2007/main/banner.png" />
-</p>
+# Himanshu Patel
 
-# 👋 Hi, I'm Himanshu Patel
+Full-Stack Developer focused on **backend systems, API design, and scalable web applications.**
 
-🚀 Full Stack Developer in Progress
+I enjoy building applications that go beyond simple UI projects — focusing on backend architecture, database design, and real-world workflows. My work primarily involves designing REST APIs, managing data flow, and integrating frontend systems with efficient backend services.
 
----
+Currently working on building full-stack applications with a strong focus on backend development, authentication systems, and database-driven platforms.
 
-## 🧑‍💻 About Me
+My interests include:
 
-* 💻 Full Stack Developer (Frontend + Backend)
-* 🌱 Learning advanced backend, file handling & databases
-* ⚡ Interested in scalable systems & serverless
-* 🎯 Goal: Become a professional software engineer
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-
-HTML, CSS, JavaScript, TypeScript, React, Tailwind, GSAP
+* Backend architecture
+* Scalable web systems
+* API design & data flow
+* Performance optimization
+* Real-world problem solving through software
 
 ---
 
-### ⚙️ Backend
+# Connect With Me
 
-Node.js, Express
-REST API, JWT, Bcrypt
-MVC Architecture
-File Handling: Multer
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/himanshupatel2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
 
 ---
 
-### 🗄️ Database
+# Tech Stack
 
-MongoDB
-SQL (Basics – MySQL / PostgreSQL)
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="140">
+<b>Languages</b>
+</td>
+<td>
+
+JavaScript • TypeScript • C • C++
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Backend</b>
+</td>
+<td>
+
+Node.js • Express • REST APIs • MVC Architecture
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Security</b>
+</td>
+<td>
+
+JWT • Bcrypt • Authentication Systems
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Frontend</b>
+</td>
+<td>
+
+React • HTML • CSS • Tailwind • GSAP
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Database</b>
+</td>
+<td>
+
+MongoDB • SQL (MySQL / PostgreSQL basics)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Cloud & Tools</b>
+</td>
+<td>
+
+AWS (Lambda, S3) • Multer • Git • REST Clients
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-### ☁️ Cloud
+# Projects
 
-AWS Lambda, S3, Serverless
+### URL Shortener
 
----
+* Built with Node.js, Express, and MongoDB
+* Implements authentication using JWT
+* Focus on backend structure and database design
 
-### 💻 Languages
+### Stranger Things Website
 
-JavaScript, TypeScript, C, C++
+* Animation-focused UI project using GSAP
+* Focus on user experience and frontend interactions
 
----
+### Shopping Website
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak (Current + Longest)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshupatel2007&theme=tokyonight&hide_border=true" />
-</p>
+* Basic authentication UI
+* Frontend-focused implementation
 
 ---
 
-## 🐍 Contribution Snake
+# Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshupatel2007/himanshupatel2007/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📂 Projects
-
-### 🎬 Stranger Things Website
-
-* GSAP animations + UI
-* HTML, CSS, JavaScript
-
-### 🔗 URL Shortener
-
-* Node.js + Express + MongoDB
-* JWT authentication
-
-### 🛒 Shopping Website
-
-* Login/Signup UI
-* HTML, CSS, JavaScript
+* Strengthening backend architecture skills
+* Building production-level REST APIs
+* Learning scalable system design concepts
+* Improving database modeling and performance
 
 ---
 
-## 🏆 Achievements
+# Achievements
 
 * 🥈 IEEE Logo Design Competition — 2nd Runner-Up
 
 ---
 
-## 🌐 Connect
+# Philosophy
 
-* GitHub: https://github.com/himanshupatel2007
-* LinkedIn: https://www.linkedin.com/in/himanshupatel2007/
+> Build systems that are structured, scalable, and solve real problems — not just projects that work.
