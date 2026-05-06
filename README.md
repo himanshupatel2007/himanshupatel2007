@@ -1,40 +1,55 @@
-<!-- 🔥 BANNER -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/himanshupatel2007/himanshupatel2007/main/banner.png" />
 </p>
 
 # 👋 Hi, I'm Himanshu Patel
 
-🚀 Aspiring Full Stack Web Developer
+🚀 Full Stack Developer in Progress
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💻 Web Developer (Frontend + Backend)
-* 🌱 Learning advanced backend & system design
-* ⚡ Interested in full-stack & serverless
-* 🎯 Goal: Become a professional developer
+* 💻 Full Stack Developer (Frontend + Backend)
+* 🌱 Learning advanced backend, file handling & databases
+* ⚡ Interested in scalable systems & serverless
+* 🎯 Goal: Become a professional software engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-HTML, CSS, JavaScript, React, Tailwind, GSAP
+### 🚀 Frontend
 
-**Backend:**
-Node.js, Express, REST API, JWT, Bcrypt, MVC
+HTML, CSS, JavaScript, TypeScript, React, Tailwind, GSAP
 
-**Database:**
+---
+
+### ⚙️ Backend
+
+Node.js, Express
+REST API, JWT, Bcrypt
+MVC Architecture
+File Handling: Multer
+
+---
+
+### 🗄️ Database
+
 MongoDB
+SQL (Basics – MySQL / PostgreSQL)
 
-**Cloud:**
+---
+
+### ☁️ Cloud
+
 AWS Lambda, S3, Serverless
 
-**Languages:**
-JavaScript, C, C++
+---
+
+### 💻 Languages
+
+JavaScript, TypeScript, C, C++
 
 ---
 
@@ -67,7 +82,7 @@ JavaScript, C, C++
 ### 🎬 Stranger Things Website
 
 * GSAP animations + UI
-* HTML, CSS, JS, JSON
+* HTML, CSS, JavaScript
 
 ### 🔗 URL Shortener
 
@@ -77,7 +92,7 @@ JavaScript, C, C++
 ### 🛒 Shopping Website
 
 * Login/Signup UI
-* HTML, CSS, JS
+* HTML, CSS, JavaScript
 
 ---
 
