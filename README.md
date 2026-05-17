@@ -1,24 +1,17 @@
 # Himanshu Patel
 
-Full-Stack Developer focused on backend systems, API design, and scalable web applications.
+Full-Stack Developer focused on backend systems, scalable APIs, and modern web applications.
 
-I enjoy building real-world applications with strong backend architecture, authentication systems, and database-driven workflows. I’m especially interested in understanding how networks and large-scale applications work, and how different systems interact with each other.
+I enjoy building real-world applications with strong backend architecture, authentication systems, and database-driven workflows. I’m especially interested in understanding how large-scale systems, networks, and application infrastructure work together to create efficient and scalable software solutions.
 
-
-My interests include:
-
-* Backend architecture
-* Scalable web systems
-* API design & data flow
-* Performance optimization
-* Real-world problem solving through software
+My focus is on writing clean, maintainable code and building applications that are structured for long-term scalability and performance.
 
 ---
 
 # Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/himanshupatel2007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/himanshupatel2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
 
 ---
 
@@ -84,6 +77,9 @@ My interests include:
 <td>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss"/>
@@ -101,7 +97,6 @@ My interests include:
 <td>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 
 </td>
@@ -127,25 +122,26 @@ My interests include:
 
 </div>
 
- ---
+---
+
 
 # Projects
 
 ### URL Shortener
 
 * Built with Node.js, Express, and MongoDB
-* Implements authentication using JWT
-* Focus on backend structure and database design
+* Implements JWT authentication and secure routing
+* Focused on backend architecture and database design
 
 ### Stranger Things Website
 
 * Animation-focused UI project using GSAP
-* Focus on user experience and frontend interactions
+* Built for interactive user experience and smooth frontend transitions
 
 ### Shopping Website
 
-* Basic authentication UI
-* Frontend-focused implementation
+* Frontend-focused e-commerce interface
+* Includes authentication UI and responsive design implementation
 
 ---
 
@@ -155,6 +151,7 @@ My interests include:
 * Building production-level REST APIs
 * Learning scalable system design concepts
 * Improving database modeling and performance
+* Exploring efficient frontend state management patterns
 
 ---
 
@@ -166,4 +163,4 @@ My interests include:
 
 # Philosophy
 
-> Build systems that are structured, scalable, and solve real problems — not just projects that work.
+> Build systems that are scalable, maintainable, and solve real-world problems — not just projects that work.
