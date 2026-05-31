@@ -1,18 +1,18 @@
 # Himanshu Patel
 
-Full-Stack Developer focused on scalable frontend architecture, backend systems, and modern web application development.
+Software Engineer focused on scalable frontend architecture, reusable component systems, and production-grade web application development.
 
-Currently working as a Web Developer Intern at Business Samadhan, contributing to a production-level ERP application where I build reusable component-based frontend systems, scalable form architecture, and optimized API-driven workflows.
+Currently working as a Web Developer Intern at Business Samadhan, contributing to a production-level ERP application where I build reusable frontend systems, scalable form and table architectures, and optimized API-driven workflows.
 
-I enjoy building real-world applications with clean architecture, efficient state management, authentication systems, and database-driven workflows. My focus is on creating maintainable and scalable applications using modern technologies and production-oriented development practices.
+I have developed 20+ reusable components used across multiple ERP modules and worked on Production, BOM Management, Quality Control, Cash & Bank, Receipt Management, and Warehouse workflows. My focus is on building maintainable, performant, and scalable applications using modern development practices and clean architecture principles.
 
 ---
 
 # Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/himanshupatel2007)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/himanshupatel2007)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
 
 ---
 
@@ -118,15 +118,17 @@ I enjoy building real-world applications with clean architecture, efficient stat
 
 ## Web Developer Intern — Business Samadhan
 
-Working on a production-level ERP application with focus on scalable frontend architecture and reusable component systems.
+Working on a production-level ERP application with a focus on scalable frontend architecture, reusable component systems, and performance optimization.
 
 ### Responsibilities
-- Building reusable form, table, and UI components
-- Managing API integration using Axios
-- Handling asynchronous server state using TanStack Query
-- Implementing scalable form validation using React Hook Form and Zod
-- Optimizing frontend performance and reducing unnecessary API refetching
-- Collaborating using Git and GitHub workflows
+
+* Built and maintained 20+ reusable UI, form, and table components
+* Developed scalable form architecture using React Hook Form and Zod
+* Managed API integration and data fetching using Axios and TanStack Query
+* Reduced unnecessary API calls through debouncing and optimized query handling
+* Improved frontend performance and user experience across ERP modules
+* Worked on Production, BOM Management, Quality Control, Cash & Bank, Receipt Management, and Warehouse workflows
+* Collaborated through Git, GitHub, code reviews, and team discussions
 
 ---
 
@@ -137,11 +139,12 @@ Working on a production-level ERP application with focus on scalable frontend ar
 Backend-focused URL shortening service built using Node.js, Express, and MongoDB.
 
 ### Features
-- REST API architecture
-- Authentication system
-- Database-driven URL management
-- Scalable backend structure
-- Cloud deployment using Railway
+
+* REST API architecture
+* Authentication and authorization
+* Database-driven URL management
+* Scalable backend structure
+* Cloud deployment using Railway
 
 ---
 
@@ -150,44 +153,47 @@ Backend-focused URL shortening service built using Node.js, Express, and MongoDB
 Interactive animation-focused frontend project built using JavaScript and GSAP.
 
 ### Focus Areas
-- Advanced animations
-- Interactive UI
-- Smooth transitions
-- Responsive design
+
+* Advanced animations
+* Interactive user experiences
+* Smooth transitions
+* Responsive design
 
 ---
 
 ## Shopping Website
 
-Frontend-focused e-commerce interface with authentication and cart functionality.
+Frontend-focused e-commerce application with authentication and cart functionality.
 
 ### Features
-- Responsive UI
-- Dynamic product rendering
-- Authentication flow
-- LocalStorage-based persistence
+
+* Responsive user interface
+* Dynamic product rendering
+* Authentication workflow
+* Cart management
+* LocalStorage persistence
 
 ---
 
 # Current Focus
 
-- Advanced TypeScript
-- Scalable frontend architecture
-- Backend system design
-- PostgreSQL
-- Redis and caching strategies
-- System design fundamentals
-- Production-grade application structure
+* Advanced TypeScript
+* Scalable Frontend Architecture
+* Backend System Design
+* PostgreSQL
+* Redis & Caching Strategies
+* System Design Fundamentals
+* Production-Grade Software Engineering
 
 ---
 
 # Achievements
 
-- 🥈 IEEE Logo Design Competition — 2nd Runner-Up
-- 🚀 Smart India Hackathon Internal Round Shortlisted
+* 🥈 IEEE Logo Design Competition — 2nd Runner-Up
+* 🚀 Smart India Hackathon Internal Round Shortlisted
 
 ---
 
 # Philosophy
 
-> Build systems that are scalable, maintainable, and designed for real-world usage — not just projects that work.
+> Build systems that are scalable, maintainable, and designed for real-world usage.
