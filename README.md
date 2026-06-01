@@ -10,10 +10,9 @@ I have developed 20+ reusable components used across multiple ERP modules and wo
 
 # Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/himanshupatel2007)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/himanshupatel2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupatel2007)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshupatel.942007@gmail.com)
 ---
 
 # Tech Stack
@@ -70,8 +69,22 @@ I have developed 20+ reusable components used across multiple ERP modules and wo
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVC%20Architecture-black?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/><br>
+<b>Security</b>
+</td>
+
+<td>
+
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/Bcrypt-CB3837?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTP%20Only%20Cookies-4A5568?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cookie%20Authentication-2D3748?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -94,7 +107,7 @@ I have developed 20+ reusable components used across multiple ERP modules and wo
 <tr>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55"/><br>
-<b>Cloud & Tools</b>
+<b>DevOps & Tools</b>
 </td>
 
 <td>
