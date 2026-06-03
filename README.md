@@ -127,6 +127,16 @@ I have developed 20+ reusable components used across multiple ERP modules and wo
 
 ---
 
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 # Experience
 
 ## Web Developer Intern — Business Samadhan
