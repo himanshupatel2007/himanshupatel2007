@@ -1,4 +1,4 @@
-# Hello, I'm Himanshu Patel 👋
+# Namaste, I'm Himanshu Patel 👋
 
 ### Software Engineer | Frontend Developer | Building Scalable Web Applications
 
