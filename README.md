@@ -22,7 +22,7 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 
 * 💼 Web Developer Intern at **Business Samadhan**
 * ⚛️ Building scalable React applications
-* 🧩 Developed **30+ reusable ERP components**
+* 🧩 Developed **50+ reusable ERP components**
 * 🔄 Working with reusable architecture & workflows
 * 🌱 Learning **TypeScript, PostgreSQL, Redis & System Design**
 * ⚡ Backend with **Node.js & Express**
