@@ -23,7 +23,7 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 * 💼 Web Developer Intern at **Business Samadhan**
 * ⚛️ Building scalable React applications and modern web experiences
 * 🚀 Passionate about designing **scalable backend systems** with Node.js
-* 🧩 Built **30+ reusable ERP components** and shared UI systems
+* 🧩 Built **50+ reusable ERP components** and shared UI systems
 * 🏗️ Interested in **System Design**, distributed systems, and scalable software architecture
 * 💬 Enjoy contributing to technical discussions, brainstorming solutions, and sharing ideas with developers
 * 🌱 Currently learning **TypeScript, PostgreSQL, Redis, Docker, AWS & System Design**
