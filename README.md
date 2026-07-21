@@ -43,7 +43,7 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 
 ### Web Developer Intern — Business Samadhan
 
-* ✅ Built **30+ reusable ERP components**
+* ✅ Built **50+ reusable ERP components**
 * ✅ Refactored ERP modules into reusable and maintainable architecture
 * ✅ Developed shared UI systems used across multiple ERP modules
 * ✅ Integrated APIs using **TanStack Query**
