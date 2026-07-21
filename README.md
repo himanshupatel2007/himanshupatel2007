@@ -1,8 +1,8 @@
-# Namaste, I'm Himanshu Patel 👋
+# Hi, I'm Himanshu Patel 👋
 
-### Software Engineer | Frontend & Backend Developer | Building Scalable Web Applications
+### Software Engineer | Full Stack Web Developer
 
-Currently a **Web Developer Intern @ Business Samadhan**, building reusable component systems, scalable ERP workflows, and production-ready frontend architecture. Passionate about designing scalable backend systems, system design, and contributing to technical discussions around software architecture.
+I'm a **B.Tech CSE student** and **Web Developer Intern at Business Samadhan**, where I build scalable ERP applications using modern web technologies. I enjoy designing clean architectures, building reusable components, and learning how large-scale software systems work.
 
 <p align="center">
   <a href="https://github.com/himanshupatel2007">
@@ -21,13 +21,11 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 ## 🚀 About Me
 
 * 💼 Web Developer Intern at **Business Samadhan**
-* ⚛️ Building scalable React applications and modern web experiences
-* 🚀 Passionate about designing **scalable backend systems** with Node.js
-* 🧩 Built **50+ reusable ERP components** and shared UI systems
-* 🏗️ Interested in **System Design**, distributed systems, and scalable software architecture
-* 💬 Enjoy contributing to technical discussions, brainstorming solutions, and sharing ideas with developers
-* 🌱 Currently learning **TypeScript, PostgreSQL, Redis, Docker, AWS & System Design**
-* ⚡ Backend development with **Node.js, Express.js & REST APIs**
+* ⚛️ Building scalable React applications and ERP systems
+* 🔧 Developed **50+ reusable components** used across multiple ERP modules
+* 🚀 Interested in **Backend Development, System Design, and Scalable Architecture**
+* 🌱 Currently learning **TypeScript, NestJS, PostgreSQL, Redis, Docker, and AWS**
+* 💡 Passionate about writing clean, reusable, and maintainable code
 
 ---
 
@@ -43,33 +41,31 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 
 ### Web Developer Intern — Business Samadhan
 
-* ✅ Built **50+ reusable ERP components**
-* ✅ Refactored ERP modules into reusable and maintainable architecture
-* ✅ Developed shared UI systems used across multiple ERP modules
-* ✅ Integrated APIs using **TanStack Query**
-* ✅ Improved application maintainability through reusable workflows
+* Built reusable UI components and shared workflows
+* Integrated APIs using TanStack Query
+* Improved maintainability through reusable architecture
 
-### Worked On
+**Modules Worked On**
 
-* 📦 Production
-* 📋 BOM (Bill of Materials)
-* 🏭 Warehouse Management
-* ✅ Quality Control
-* 💰 Cash & Bank
-* 🧾 Receipt Management
-* 🚚 Dispatch Module
-* 📊 Inventory Management
+* Production
+* BOM
+* Warehouse Management
+* Quality Control
+* Inventory
+* Dispatch
+* Cash & Bank
+* Receipt Management
 
 ---
 
 ## ⭐ Featured Projects
 
-| Project                 | Tech Stack                  | Live Demo                                           |
-| ----------------------- | --------------------------- | --------------------------------------------------- |
-| 🔗 URL Shortener        | Node.js • Express • MongoDB | https://url-shortner-production-6b6e.up.railway.app |
-| 👻 Stranger Things      | JavaScript • GSAP           | https://stranger-things-zeta-three.vercel.app       |
-| 🛒 Shopping Kart        | React                       | https://shopping-cart-rose-xi.vercel.app            |
-| 📡 Morse Code Converter | JavaScript                  | https://morse-code-converter-sigma.vercel.app       |
+| Project                 | Stack                     |
+| ----------------------- | ------------------------- |
+| 🔗 URL Shortener        | Node.js, Express, MongoDB |
+| 👻 Stranger Things      | JavaScript, GSAP          |
+| 🛒 Shopping Cart        | React                     |
+| 📡 Morse Code Converter | JavaScript                |
 
 ---
 
@@ -88,40 +84,27 @@ Currently a **Web Developer Intern @ Business Samadhan**, building reusable comp
 
 ## 🏆 Achievements
 
-* 🥈 IEEE Logo Design Competition — **2nd Runner-Up**
-* 🚀 Smart India Hackathon — **Internal Round Shortlisted**
+* 🥈 IEEE Logo Design Competition — 2nd Runner-Up
+* 🚀 Smart India Hackathon — Internal Round Shortlisted
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Exploring
 
 * TypeScript
+* NestJS
 * PostgreSQL
 * Redis
-* NestJS
+* Docker
+* AWS
 * System Design
-* Scalable Backend Architecture
 * Distributed Systems
-* High Performance APIs
-* Cloud & AWS
-* Open Source Contributions
 
 ---
 
-## 🌟 What I'm Interested In
+## 📫 Connect With Me
 
-* 🏗️ Designing scalable and maintainable backend systems
-* ⚡ Building production-ready full-stack applications
-* 📚 Learning distributed systems and software architecture
-* 🤝 Contributing to technical discussions and collaborative problem-solving
-* 🌍 Exploring open-source projects and developer communities
-* 🚀 Writing clean, reusable, and maintainable code
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing software engineering, scalable architectures, frontend engineering, backend development, system design, or exciting project ideas.
+I'm always interested in discussing software engineering, backend systems, frontend development, or interesting project ideas.
 
 <p align="center">
   <a href="mailto:himanshupatel.942007@gmail.com">
