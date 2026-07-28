@@ -85,7 +85,6 @@ I'm a **B.Tech CSE student** and **Web Developer Intern at Business Samadhan**, 
 ## 🏆 Achievements
 
 * 🥈 IEEE Logo Design Competition — 2nd Runner-Up
-* 🚀 Smart India Hackathon — Internal Round Shortlisted
 
 ---
 
