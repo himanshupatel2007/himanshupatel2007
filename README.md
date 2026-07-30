@@ -1,124 +1,188 @@
-# Hello, Himanshu Patel 👋
+<div align="center">
 
-### Software Engineer | Full Stack Web Developer
+# Hi there, I'm Himanshu Patel 👋
 
-I'm a **B.Tech CSE student** and **Web Developer Intern at Business Samadhan**, where I build scalable ERP applications using modern web technologies. I enjoy designing clean architectures, building reusable components, and learning how large-scale software systems work.
+### 💻 Software Engineer • Full Stack Web Developer
 
-<p align="center">
-  <a href="https://github.com/himanshupatel2007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/himanshupatel2007">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:himanshupatel.942007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<p>
+Building scalable web applications with clean architecture, reusable components, and modern technologies.
 </p>
 
----
+<a href="https://github.com/himanshupatel2007">
+<img src="https://img.shields.io/github/followers/himanshupatel2007?label=Followers&style=for-the-badge&logo=github">
+</a>
 
-## 🚀 About Me
+<a href="https://github.com/himanshupatel2007">
+<img src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&style=for-the-badge&logo=github">
+</a>
 
-* 💼 Web Developer Intern at **Business Samadhan**
-* ⚛️ Building scalable React applications and ERP systems
-* 🔧 Developed **60+ reusable components** used across multiple ERP modules
-* 🚀 Interested in **Backend Development, System Design, and Scalable Architecture**
-* 🌱 Currently learning **TypeScript, NestJS, PostgreSQL, Redis, Docker, and AWS**
-* 💡 Passionate about writing clean, reusable, and maintainable code
+<img src="https://komarev.com/ghpvc/?username=himanshupatel2007&style=for-the-badge&color=blue"/>
 
----
+<br><br>
 
-## 💻 Tech Stack
+<a href="https://github.com/himanshupatel2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,mongodb,postgres,redis,prisma,tailwind,git,github,docker,aws,cpp,c,html,css,vscode,postman&perline=7"/>
-</p>
+<a href="https://linkedin.com/in/himanshupatel2007">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
----
+<a href="mailto:himanshupatel.942007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-## 🏢 Experience
-
-### Web Developer Intern — Business Samadhan
-
-* Built reusable UI components and shared workflows
-* Integrated APIs using TanStack Query
-* Improved maintainability through reusable architecture
-
-**Modules Worked On**
-
-* Production
-* BOM
-* Warehouse Management
-* Quality Control
-* Inventory
-* Dispatch
-* Cash & Bank
-* Receipt Management
+</div>
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 About Me
 
-| Project                 | Stack                     |
-| ----------------------- | ------------------------- |
-| 🔗 URL Shortener        | Node.js, Express, MongoDB |
-| 👻 Stranger Things      | JavaScript, GSAP          |
-| 🛒 Shopping Cart        | React                     |
-| 📡 Morse Code Converter | JavaScript                |
+```javascript
+const himanshu = {
+    education: "B.Tech Computer Science",
+    role: "Web Developer Intern @ Business Samadhan",
 
----
+    interests: [
+        "Backend Development",
+        "System Design",
+        "Distributed Systems",
+        "Cloud Computing"
+    ],
 
-## 📊 GitHub Stats
+    currentlyLearning: [
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS"
+    ],
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-* 🥈 IEEE Logo Design Competition — 2nd Runner-Up
-
----
-
-## 🎯 Currently Exploring
-
-* TypeScript
-* NestJS
-* PostgreSQL
-* Redis
-* Docker
-* AWS
-* System Design
-* Distributed Systems
+    motto: "Build once. Reuse everywhere."
+}
+```
 
 ---
 
-## 📫 Connect With Me
+# 💼 Experience
 
-I'm always interested in discussing software engineering, backend systems, frontend development, or interesting project ideas.
+## 🏢 Business Samadhan
+### Web Developer Intern
 
-<p align="center">
-  <a href="mailto:himanshupatel.942007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/himanshupatel2007">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/himanshupatel2007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+### Highlights
+
+- 🚀 Developed **60+ reusable React components**
+- ⚡ Built scalable ERP modules
+- 🔥 Integrated APIs using **TanStack Query**
+- 🎯 Improved maintainability with reusable architecture
+- 📦 Worked on multiple production ERP modules
+
+### ERP Modules
+
+| Module | Status |
+|----------|--------|
+| Production | ✅ |
+| BOM | ✅ |
+| Warehouse | ✅ |
+| Inventory | ✅ |
+| Quality Control | ✅ |
+| Dispatch | ✅ |
+| Cash & Bank | ✅ |
+| Receipt Management | ✅ |
 
 ---
 
-<p align="center">
-  <i>"Build once. Reuse everywhere."</i>
-</p>
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,prisma,tailwind,docker,aws,git,github,cpp,c,html,css,vscode,postman&perline=11"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🔗 URL Shortener | URL shortening service with analytics | Node.js • Express • MongoDB |
+| 👻 Stranger Things | Interactive animated landing page | JavaScript • GSAP |
+| 🛒 Shopping Cart | React shopping cart with state management | React |
+| 📡 Morse Code Converter | Encode & Decode Morse Code | JavaScript |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🥈 IEEE Logo Design Competition — **2nd Runner-Up**
+
+---
+
+# 🎯 Currently Exploring
+
+- ⚡ TypeScript
+- 🏗 NestJS
+- 🐘 PostgreSQL
+- 🔴 Redis
+- 🐳 Docker
+- ☁ AWS
+- 🧠 System Design
+- 🌐 Distributed Systems
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:himanshupatel.942007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/himanshupatel2007">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/himanshupatel2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+*"Build once. Reuse everywhere."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=120&section=footer"/>
+
+</div>
