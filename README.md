@@ -22,7 +22,7 @@ I'm a **B.Tech CSE student** and **Web Developer Intern at Business Samadhan**, 
 
 * 💼 Web Developer Intern at **Business Samadhan**
 * ⚛️ Building scalable React applications and ERP systems
-* 🔧 Developed **50+ reusable components** used across multiple ERP modules
+* 🔧 Developed **60+ reusable components** used across multiple ERP modules
 * 🚀 Interested in **Backend Development, System Design, and Scalable Architecture**
 * 🌱 Currently learning **TypeScript, NestJS, PostgreSQL, Redis, Docker, and AWS**
 * 💡 Passionate about writing clean, reusable, and maintainable code
