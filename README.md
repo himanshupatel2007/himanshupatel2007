@@ -1,87 +1,79 @@
 <div align="center">
 
-# Hi there, I'm Himanshu Patel 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Himanshu%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
 
-### 💻 Software Engineer • Full Stack Web Developer
+<br>
 
-<p>
-Building scalable web applications with clean architecture, reusable components, and modern technologies.
-</p>
-
-<a href="https://github.com/himanshupatel2007">
-<img src="https://img.shields.io/github/followers/himanshupatel2007?label=Followers&style=for-the-badge&logo=github">
+<a href="https://linkedin.com/in/himanshupatel2007">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/himanshupatel2007">
-<img src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&style=for-the-badge&logo=github">
+<a href="mailto:himanshupatel.942007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=himanshupatel2007&style=for-the-badge&color=blue"/>
+<a href="https://github.com/himanshupatel2007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
 <a href="https://github.com/himanshupatel2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/followers/himanshupatel2007?label=Followers&style=for-the-badge&logo=github&color=6C63FF"/>
 </a>
-
-<a href="https://linkedin.com/in/himanshupatel2007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/himanshupatel2007">
+  <img src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&style=for-the-badge&logo=github&color=00D4FF"/>
 </a>
-
-<a href="mailto:himanshupatel.942007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="https://komarev.com/ghpvc/?username=himanshupatel2007&style=for-the-badge&color=6C63FF&label=Profile+Views"/>
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```javascript
 const himanshu = {
-    education: "B.Tech Computer Science",
+    education: "B.Tech in Computer Science",
     role: "Web Developer Intern @ Business Samadhan",
 
     interests: [
         "Backend Development",
         "System Design",
         "Distributed Systems",
-        "Cloud Computing"
+        "Cloud Computing",
     ],
 
     currentlyLearning: [
-        "TypeScript",
-        "NestJS",
-        "PostgreSQL",
-        "Redis",
-        "Docker",
-        "AWS"
+        "TypeScript", "NestJS", "PostgreSQL",
+        "Redis", "Docker", "AWS",
     ],
 
-    motto: "Build once. Reuse everywhere."
-}
+    motto: "Build once. Reuse everywhere. 🔁",
+};
 ```
 
----
+<br>
 
-# 💼 Experience
+## 💼 Experience
 
-## 🏢 Business Samadhan
-### Web Developer Intern
+### 🏢 Web Developer Intern — Business Samadhan
 
-### Highlights
+<table>
+<tr>
+<td width="60%" valign="top">
 
+**Highlights**
 - 🚀 Developed **60+ reusable React components**
-- ⚡ Built scalable ERP modules
+- ⚡ Built scalable ERP modules for production use
 - 🔥 Integrated APIs using **TanStack Query**
-- 🎯 Improved maintainability with reusable architecture
-- 📦 Worked on multiple production ERP modules
+- 🎯 Improved maintainability through reusable architecture
+- 📦 Shipped features across multiple production ERP modules
 
-### ERP Modules
+</td>
+<td width="40%" valign="top">
 
+**ERP Modules Delivered**
 | Module | Status |
-|----------|--------|
+|---|---|
 | Production | ✅ |
 | BOM | ✅ |
 | Warehouse | ✅ |
@@ -91,9 +83,13 @@ const himanshu = {
 | Cash & Bank | ✅ |
 | Receipt Management | ✅ |
 
----
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack
+<br>
+
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -101,85 +97,100 @@ const himanshu = {
 
 </div>
 
----
+<br>
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🔗 URL Shortener | URL shortening service with analytics | Node.js • Express • MongoDB |
-| 👻 Stranger Things | Interactive animated landing page | JavaScript • GSAP |
-| 🛒 Shopping Cart | React shopping cart with state management | React |
-| 📡 Morse Code Converter | Encode & Decode Morse Code | JavaScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔗 [URL Shortener](https://github.com/himanshupatel2007)
+URL shortening service with built-in click analytics.
+<br>`Node.js` `Express` `MongoDB`
 
-# 📈 GitHub Analytics
+</td>
+<td width="50%" valign="top">
+
+### 👻 [Stranger Things Landing Page](https://github.com/himanshupatel2007)
+Interactive, animation-heavy landing page inspired by the show.
+<br>`JavaScript` `GSAP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Shopping Cart](https://github.com/himanshupatel2007)
+React-based shopping cart with clean state management.
+<br>`React`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Morse Code Converter](https://github.com/himanshupatel2007)
+Encodes and decodes text to and from Morse code.
+<br>`JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="700" src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
+<br>
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥈 IEEE Logo Design Competition — **2nd Runner-Up**
+🥈 **2nd Runner-Up** — IEEE Logo Design Competition
 
----
+<br>
 
-# 🎯 Currently Exploring
+## 🎯 Currently Exploring
 
-- ⚡ TypeScript
-- 🏗 NestJS
-- 🐘 PostgreSQL
-- 🔴 Redis
-- 🐳 Docker
-- ☁ AWS
-- 🧠 System Design
-- 🌐 Distributed Systems
+<div align="center">
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-# 📫 Let's Connect
+🧠 System Design &nbsp;•&nbsp; 🌐 Distributed Systems
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:himanshupatel.942007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/himanshupatel2007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/himanshupatel2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting!
+<br><br>
 
 *"Build once. Reuse everywhere."*
 
