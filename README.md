@@ -62,11 +62,12 @@ const himanshu = {
 <td width="60%" valign="top">
 
 **Highlights**
-- 🚀 Developed **60+ reusable React components**
-- ⚡ Built scalable ERP modules for production use
-- 🔥 Integrated APIs using **TanStack Query**
-- 🎯 Improved maintainability through reusable architecture
-- 📦 Shipped features across multiple production ERP modules
+- 🚀 Built **2 production-grade platforms**: an ERP system and a Cohort Management website
+- 🧩 Developed **50+ reusable components** and **25+ pages** across both projects
+- 🔐 Implemented **role-based access control** on the frontend for secure, permission-aware UIs
+- ⚡ Integrated APIs using **TanStack Query**
+- 🟦 Delivered a fully **TypeScript**-based application (Cohort Management website)
+- 🎯 Improved maintainability through reusable, scalable architecture
 
 </td>
 <td width="40%" valign="top">
@@ -82,6 +83,30 @@ const himanshu = {
 | Dispatch | ✅ |
 | Cash & Bank | ✅ |
 | Receipt Management | ✅ |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏭 ERP System**
+- Built scalable ERP modules for production use
+- Shipped features across 8+ production ERP modules
+- Reusable React component architecture
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Cohort Management Website** (TypeScript)
+- Secure login page with role-based access control
+- Admin can dynamically **create cohorts via a form** and **remove** them on the fly
+- Multiple cohorts managed dynamically without hardcoding
+- Clean, typed, component-driven frontend architecture
 
 </td>
 </tr>
@@ -105,11 +130,20 @@ const himanshu = {
 <tr>
 <td width="50%" valign="top">
 
+### 🎓 [Cohort Management Website](https://github.com/himanshupatel2007)
+Admin dashboard to dynamically create and remove multiple cohorts via forms, with secure login and access control.
+<br>`TypeScript` `React` `Access Control`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔗 [URL Shortener](https://github.com/himanshupatel2007)
 URL shortening service with built-in click analytics.
 <br>`Node.js` `Express` `MongoDB`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 👻 [Stranger Things Landing Page](https://github.com/himanshupatel2007)
@@ -117,8 +151,6 @@ Interactive, animation-heavy landing page inspired by the show.
 <br>`JavaScript` `GSAP`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Shopping Cart](https://github.com/himanshupatel2007)
@@ -126,11 +158,16 @@ React-based shopping cart with clean state management.
 <br>`React`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📡 [Morse Code Converter](https://github.com/himanshupatel2007)
 Encodes and decodes text to and from Morse code.
 <br>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
