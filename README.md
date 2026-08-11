@@ -40,11 +40,12 @@ const himanshu = {
         "System Design",
         "Distributed Systems",
         "Cloud Computing",
+        "AI-Powered Applications",
     ],
 
     currentlyLearning: [
         "TypeScript", "NestJS", "PostgreSQL",
-        "Redis", "Docker", "AWS",
+        "Redis", "Docker", "AWS", "LLM Integrations",
     ],
 
     motto: "Build once. Reuse everywhere. 🔁",
@@ -65,6 +66,7 @@ const himanshu = {
 - 🚀 Built **2 production-grade platforms**: an ERP system and a Cohort Management website
 - 🧩 Developed **50+ reusable components** and **25+ pages** across both projects
 - 🔐 Implemented **role-based access control** on the frontend for secure, permission-aware UIs
+- 🤖 Integrated an **LLM-powered chatbot** into the Cohort Management website for conversational Q&A on cohort topics
 - ⚡ Integrated APIs using **TanStack Query**
 - 🟦 Delivered a fully **TypeScript**-based application (Cohort Management website)
 - 🎯 Improved maintainability through reusable, scalable architecture
@@ -104,7 +106,7 @@ const himanshu = {
 
 **🎓 Cohort Management Website** (TypeScript)
 - Secure login page with role-based access control
-- Admin can dynamically **create cohorts via a form** and **remove** them on the fly
+- **LLM chatbot** lets users chat and get answers on cohort-related topics
 - Multiple cohorts managed dynamically without hardcoding
 - Clean, typed, component-driven frontend architecture
 
@@ -121,57 +123,6 @@ const himanshu = {
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,prisma,tailwind,docker,aws,git,github,cpp,c,html,css,vscode,postman&perline=11"/>
 
 </div>
-
-<br>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Cohort Management Website](https://github.com/himanshupatel2007)
-Admin dashboard to dynamically create and remove multiple cohorts via forms, with secure login and access control.
-<br>`TypeScript` `React` `Access Control`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 [URL Shortener](https://github.com/himanshupatel2007)
-URL shortening service with built-in click analytics.
-<br>`Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👻 [Stranger Things Landing Page](https://github.com/himanshupatel2007)
-Interactive, animation-heavy landing page inspired by the show.
-<br>`JavaScript` `GSAP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [Shopping Cart](https://github.com/himanshupatel2007)
-React-based shopping cart with clean state management.
-<br>`React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 [Morse Code Converter](https://github.com/himanshupatel2007)
-Encodes and decodes text to and from Morse code.
-<br>`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -207,7 +158,7 @@ Encodes and decodes text to and from Morse code.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-🧠 System Design &nbsp;•&nbsp; 🌐 Distributed Systems
+🧠 System Design &nbsp;•&nbsp; 🌐 Distributed Systems &nbsp;•&nbsp; 🤖 LLM Integrations
 
 </div>
 
