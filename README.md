@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Himanshu%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Himanshu%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=52&descSize=18"/>
 
 <a href="https://linkedin.com/in/himanshupatel2007">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,6 +14,10 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+platforms;ERP+%7C+Cohort+Management+%7C+LLM+Apps;Turning+ideas+into+clean%2C+typed+code;Currently+diving+into+System+Design+%F0%9F%9A%80"/>
+
+<br>
+
 <a href="https://github.com/himanshupatel2007">
   <img src="https://img.shields.io/github/followers/himanshupatel2007?label=Followers&style=for-the-badge&logo=github&color=6C63FF"/>
 </a>
@@ -26,7 +28,7 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 🚀 About Me
 
@@ -52,7 +54,7 @@ const himanshu = {
 };
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 💼 Experience
 
@@ -62,7 +64,7 @@ const himanshu = {
 <tr>
 <td width="60%" valign="top">
 
-**Highlights**
+**✨ Highlights**
 - 🚀 Built **2 production-grade platforms**: an ERP system and a Cohort Management website
 - 🧩 Developed **50+ reusable components** and **25+ pages** across both projects
 - 🔐 Implemented **role-based access control** on the frontend for secure, permission-aware UIs
@@ -74,9 +76,9 @@ const himanshu = {
 </td>
 <td width="40%" valign="top">
 
-**ERP Modules Delivered**
+**📦 ERP Modules Delivered**
 | Module | Status |
-|---|---|
+|:---|:---:|
 | Production | ✅ |
 | BOM | ✅ |
 | Warehouse | ✅ |
@@ -104,9 +106,9 @@ const himanshu = {
 </td>
 <td width="50%" valign="top">
 
-**🎓 Cohort Management Website** (TypeScript)
+**🎓 Cohort Management Website** *(TypeScript)*
 - Secure login page with role-based access control
-- **LLM chatbot** lets users chat and get answers on cohort-related topics
+- 🤖 **LLM chatbot** lets users chat and get answers on cohort-related topics
 - Multiple cohorts managed dynamically without hardcoding
 - Clean, typed, component-driven frontend architecture
 
@@ -114,7 +116,7 @@ const himanshu = {
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 💻 Tech Stack
 
@@ -124,28 +126,32 @@ const himanshu = {
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="700" src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight&hide_border=true"/>
+<img width="700" src="https://streak-stats.demolab.com?user=himanshupatel2007&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=himanshupatel2007&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 🏆 Achievements
 
 🥈 **2nd Runner-Up** — IEEE Logo Design Competition
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 🎯 Currently Exploring
 
@@ -162,7 +168,7 @@ const himanshu = {
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&section=header"/>
 
 ## 📫 Let's Connect
 
@@ -180,7 +186,7 @@ const himanshu = {
 
 <br><br>
 
-*"Build once. Reuse everywhere."*
+*"Build once. Reuse everywhere."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=120&section=footer"/>
 
