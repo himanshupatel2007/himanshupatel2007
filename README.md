@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,8,12,20&height=8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1800&pause=400&color=FF0080,FF6B00,FFD500,00FF85,00D4FF,C084FC,FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%9A%80+BUILDING+SCALABLE+WEB+PLATFORMS;%F0%9F%A7%A9+ERP+%2B+COHORT+MANAGEMENT+%2B+LLM+APPS;%F0%9F%92%A5+TURNING+IDEAS+INTO+CLEAN%2C+TYPED+CODE;%F0%9F%8C%8C+DIVING+DEEP+INTO+SYSTEM+DESIGN;%E2%9A%A1+SHIPPING+FASTER+THAN+COFFEE+GETS+COLD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1800&pause=400&color=FF0080,FF6B00,FFD500,00FF85,00D4FF,C084FC,FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%9A%80+BUILDING+SCALABLE+WEB+PLATFORMS;%F0%9F%A7%A9+ERP+%2B+COHORT+MANAGEMENT+%2B+LLM+APPS;%F0%9F%92%A5+TURNING+IDEAS+INTO+CLEAN%2C+TYPED+CODE;"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,12,8,4,2,0&height=8"/>
 
