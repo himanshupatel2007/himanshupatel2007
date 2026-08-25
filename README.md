@@ -1,167 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=HIMANSHU%20PATEL&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,5,30&text=HIMANSHU%20PATEL&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Digital%20Experiences&descAlignY=58&descSize=19&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+web+applications;React+%2B+TypeScript+%2B+Node.js;Exploring+System+Design%2C+Cloud+%26+AI;Turning+ideas+into+production-ready+software"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+things+for+the+web.;React+%E2%86%92+TypeScript+%E2%86%92+Node.js;From+idea+to+production.;Currently+exploring+systems%2C+cloud+%26+AI."/>
+</a>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/himanshupatel2007">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:himanshupatel.942007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/himanshupatel2007">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=himanshupatel2007&label=Profile%20Views&color=2563EB&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/himanshupatel2007?label=Followers&style=flat-square&color=7C3AED"/>
-<img src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&label=Stars&style=flat-square&color=F59E0B"/>
+<img src="https://komarev.com/ghpvc/?username=himanshupatel2007&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/himanshupatel2007?label=FOLLOWERS&style=flat-square&color=2563EB"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=F59E0B"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
 ```ts
-const himanshu = {
+const developer = {
+  name: "Himanshu Patel",
   role: "Full Stack Developer",
-  education: "B.Tech in Computer Science",
 
-  interests: [
-    "Backend Development",
-    "System Design",
-    "Cloud Computing",
-    "Distributed Systems",
-    "AI-Powered Applications",
+  building: [
+    "Scalable Web Applications",
+    "Developer-Focused Products",
+    "AI-Powered Experiences"
   ],
 
   currentlyLearning: [
     "TypeScript",
-    "NestJS",
-    "PostgreSQL",
-    "Redis",
-    "Docker",
-    "AWS",
+    "Backend Architecture",
+    "System Design",
+    "Cloud Infrastructure"
   ],
 
-  motto: "Build. Learn. Improve. Repeat."
+  philosophy: "Build → Break → Learn → Improve"
 };
 ```
 
-### ⚡ Quick Snapshot
+I'm a Computer Science student and Full Stack Developer focused on building **practical, scalable, and maintainable applications**.
 
-<table>
-<tr>
-<td width="50%">
+I enjoy taking an idea from **UI → architecture → APIs → database → deployment** and turning it into a complete product.
 
-🚀 **2+ Production Platforms**
+My current interests include:
 
-🧩 **60+ Reusable Components**
-
-📄 **25+ Pages Built**
-
-🔐 **Role-Based Access Control**
-
-</td>
-
-<td width="50%">
-
-⚡ **React + TypeScript**
-
-🗄️ **PostgreSQL + MongoDB**
-
-☁️ **Cloud & Deployment**
-
-🤖 **Exploring LLM Integrations**
-
-</td>
-</tr>
-</table>
+* ⚙️ Backend Architecture & System Design
+* ☁️ Cloud Infrastructure & Deployment
+* 🗄️ Databases & Data Modeling
+* 🤖 AI & LLM-Powered Applications
+* 🚀 Building production-ready web products
 
 ---
 
-# 💼 Experience
+## ⚡ By The Numbers
 
-## 🏢 Web Developer Intern
+<div align="center">
 
-### Business Samadhan
+|      🧩 Components     |       📄 Pages      |     🚀 Platforms     |  🔐 Architecture  |
+| :--------------------: | :-----------------: | :------------------: | :---------------: |
+|         **60+**        |       **25+**       |        **2+**        |      **RBAC**     |
+| Reusable UI Components | Application Screens | Production Platforms | Role-Based Access |
 
-> Building scalable and maintainable web applications for real-world business workflows.
+</div>
 
-### Highlights
+---
 
-* 🚀 Built and maintained production-ready **ERP modules**
+## 💼 Experience
+
+### 🏢 Web Developer Intern — Business Samadhan
+
+> Building software for real-world business workflows and ERP systems.
+
+During my internship, I've worked on designing, developing, and maintaining large-scale frontend features used across multiple business modules.
+
+**What I've worked on:**
+
+* 🚀 Built and maintained multiple **ERP modules**
 * 🧩 Developed **60+ reusable React components**
-* 📄 Delivered **25+ application pages**
+* 📄 Built **25+ application pages**
 * 🔐 Implemented **role-based access control**
-* ⚡ Integrated APIs using **Axios and TanStack Query**
-* 🟦 Worked extensively with **TypeScript**
-* 📊 Built features for inventory, products, BOM, quality control, and financial workflows
-* 📱 Converted web applications into Android applications using **Capacitor**
+* ⚡ Integrated APIs using **Axios + TanStack Query**
+* 🟦 Migrated and developed features using **TypeScript**
+* 📦 Worked on **Products, Inventory, BOM, Quality Control & Finance**
+* 📱 Packaged web applications as Android apps using **Capacitor**
+* 📊 Built features involving search, filters, CSV import/export, tables and dashboards
+
+**Core Stack**
+
+`React` · `TypeScript` · `Tailwind CSS` · `TanStack Query` · `Axios` · `REST APIs`
 
 ---
 
-# 🚀 Projects & Work
+# 🚀 Featured Work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏭 ERP Platform
+### 🏭 ERP Platform
 
-A scalable business management platform with multiple modules.
+A large-scale business management platform designed around real-world operational workflows.
 
-### Features
+**Key Areas**
 
 * 📦 Product & Inventory Management
-* 🏭 Production Modules
+* 🏭 Production Workflows
 * 📋 Bill of Materials
 * 🔍 Quality Control
 * 🚚 Dispatch Management
-* 💰 Cash & Bank Book
+* 💰 Cash & Bank Books
 * 🔐 Permission-Based Access
 
-### Tech
+**Built With**
 
 `React` `TypeScript` `Tailwind`
+
 `TanStack Query` `Axios`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 Cohort Management Platform
+### 🎓 Cohort Management Platform
 
-A dynamic platform for managing cohorts and users.
+A platform for managing users, cohorts, learning workflows, and AI-powered interactions.
 
-### Features
+**Key Areas**
 
 * 🔐 Authentication & RBAC
-* 👥 Multi-Cohort Support
-* 🤖 LLM-Powered Chatbot
-* 🧩 Reusable Component Architecture
+* 👥 Multi-Cohort Management
 * 📊 Dynamic Dashboards
+* 🧩 Reusable Component Architecture
+* 🤖 LLM-Powered Chat Experience
 
-### Tech
+**Built With**
 
 `React` `TypeScript` `Tailwind`
-`LLM Integration` `REST APIs`
+
+`REST APIs` `LLM Integration`
 
 </td>
 
 </tr>
 </table>
 
+<br/>
+
+### 🧠 What I Care About When Building Projects
+
+```text
+Clean Architecture
+       ↓
+Reusable Components
+       ↓
+Type Safety
+       ↓
+Scalable APIs
+       ↓
+Good Developer Experience
+       ↓
+Production Deployment
+```
+
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -169,19 +191,27 @@ A dynamic platform for managing cohorts and users.
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,html,css"/>
 
+<br/><br/>
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+
+<br/><br/>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 
-### Databases & Infrastructure
+<br/><br/>
+
+### Data & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,docker,aws"/>
 
-### Tools
+<br/><br/>
+
+### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
@@ -189,17 +219,17 @@ A dynamic platform for managing cohorts and users.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=C9D1D9&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
 
 <br/><br/>
 
-<img width="720" src="https://streak-stats.demolab.com?user=himanshupatel2007&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=58A6FF"/>
+<img width="720" src="https://streak-stats.demolab.com?user=himanshupatel2007&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=2563EB&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
@@ -211,45 +241,84 @@ A dynamic platform for managing cohorts and users.
 
 ### 🥈 2nd Runner-Up
 
-**IEEE Logo Design Competition**
+## IEEE Logo Design Competition
 
-<br/>
-
-<img src="https://img.shields.io/badge/Achievement-2nd%20Runner--Up-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Category-Creative%20Design-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_Achievement-2nd_Runner--Up-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Category-Creative_Design-7C3AED?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Leveling Up
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,redis,docker,aws"/>
 
-<br/><br/>
-
-🧠 **System Design**  • 
-🌐 **Distributed Systems**  • 
-🤖 **LLM Applications**  • 
-☁️ **Cloud Infrastructure**
-
 </div>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**System Design**
+
+Learning how large systems are designed, scaled, and maintained.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Exploring NestJS, APIs, authentication, caching, and architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud**
+
+Learning Docker, deployment workflows, infrastructure, and AWS.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Experimenting with LLM integrations and AI-powered applications.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&bg_color=0D1117&color=58A6FF&line=7C3AED&point=F59E0B&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=F59E0B&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Watch The Contributions Move
 
 <div align="center">
 
@@ -261,28 +330,28 @@ A dynamic platform for managing cohorts and users.
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Interesting
 
-💬 Open to discussing **web development, system design, backend architecture, cloud, and AI applications.**
+I'm always interested in discussing:
+
+**Full Stack Development** · **System Design** · **Backend Architecture** · **Cloud** · **AI Applications**
 
 <br/>
 
 <a href="mailto:himanshupatel.942007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/himanshupatel2007">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/himanshupatel2007">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💭 *"Build. Learn. Improve. Repeat."*
+> ### *"Build. Break. Learn. Improve."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=0,2,5,30"/>
 
 </div>
