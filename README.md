@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,2,5,12,30&text=HIMANSHU%20PATEL&fontSize=90&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Digital%20Experiences&descAlignY=58&descSize=22&animation=fadeIn"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+things+for+the+web.;React+%E2%86%92+TypeScript+%E2%86%92+Node.js;From+idea+to+production.;Currently+exploring+systems%2C+cloud+%26+AI."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+things+for+the+web.;React+%E2%86%92+TypeScript+%E2%86%92+Node.js;Shipping+RAG-powered+AI+features.;From+idea+to+production."/>
 </a>
 
 <br/><br/>
@@ -46,11 +46,11 @@ const developer = {
   building: [
     "Scalable Web Applications",
     "Developer-Focused Products",
-    "AI-Powered Experiences"
+    "AI-Powered Experiences (RAG + LLMs)"
   ],
 
   currentlyLearning: [
-    "TypeScript",
+    "Advanced TypeScript",
     "Backend Architecture",
     "System Design",
     "Cloud Infrastructure"
@@ -60,7 +60,7 @@ const developer = {
 };
 ```
 
-I'm a Computer Science student and Full Stack Developer focused on building **practical, scalable, and maintainable applications**.
+I'm a Computer Science student and Full Stack Developer focused on building **practical, scalable, and maintainable applications** — including AI-powered features like Retrieval-Augmented Generation (RAG) pipelines.
 
 I enjoy taking an idea from **UI → architecture → APIs → database → deployment** and turning it into a complete product.
 
@@ -91,7 +91,7 @@ I enjoy taking an idea from **UI → architecture → APIs → database → depl
 
 ### 🤖
 **AI & LLM**
-<br/>Powered Applications
+<br/>RAG Pipelines & Chat
 
 </td>
 <td align="center" width="20%">
@@ -112,22 +112,27 @@ I enjoy taking an idea from **UI → architecture → APIs → database → depl
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h1>🧩</h1>
 <h1><b>60+</b></h1>
 Reusable UI Components
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h1>📄</h1>
 <h1><b>25+</b></h1>
 Application Screens
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h1>🚀</h1>
 <h1><b>2+</b></h1>
 Production Platforms
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<h1>🤖</h1>
+<h1><b>1</b></h1>
+RAG Pipeline Shipped
+</td>
+<td align="center" width="20%">
 <h1>🔐</h1>
 <h1><b>RBAC</b></h1>
 Role-Based Access
@@ -147,23 +152,33 @@ Role-Based Access
 
 ### 🏢 Web Developer Intern — Business Samadhan
 
-> Building software for real-world business workflows and ERP systems.
+> Building software for real-world business workflows, ERP systems, and AI-powered learning tools.
 
-During my internship, I've worked on designing, developing, and maintaining large-scale frontend features used across multiple business modules.
+During my internship, I've owned the majority of frontend development on a production ERP application, and separately designed and built a Retrieval-Augmented Generation (RAG) pipeline for an LMS platform's AI chat experience.
 
-**What I've worked on:**
+**ERP Platform — what I've worked on:**
 
 | | |
 |---|---|
-| 🚀 | Built and maintained multiple **ERP modules** |
-| 🧩 | Developed **60+ reusable React components** |
+| 🚀 | Owned and drove the majority of frontend development across **5 ERP modules** |
+| 🧩 | Developed **60+ reusable React components**, cutting new feature dev time |
 | 📄 | Built **25+ application pages** |
-| 🔐 | Implemented **role-based access control** |
+| 📉 | Refactored large pages into modular components, reducing codebase size |
+| 🔐 | Implemented role-based access control |
 | ⚡ | Integrated APIs using **Axios + TanStack Query** |
 | 🟦 | Migrated and developed features using **TypeScript** |
 | 📦 | Worked on **Products, Inventory, BOM, Quality Control & Finance** |
 | 📱 | Packaged web applications as Android apps using **Capacitor** |
-| 📊 | Built features involving search, filters, CSV import/export, tables and dashboards |
+| 📊 | Built search, filters, CSV import/export, tables and dashboards |
+
+**LMS Platform — AI / RAG work:**
+
+| | |
+|---|---|
+| 🤖 | Designed and implemented a **RAG pipeline** powering an LLM-driven chat experience |
+| ✂️ | Built document chunking and retrieval logic for context-aware AI responses |
+| 🔗 | Integrated the retrieval layer with an LLM to generate grounded answers |
+| 🐛 | Resolved frontend and backend issues across both platforms |
 
 <div align="center">
 
@@ -176,6 +191,8 @@ During my internship, I've worked on designing, developing, and maintaining larg
 <img height="55" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 &nbsp;
 <img height="55" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img height="55" src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
@@ -192,7 +209,7 @@ During my internship, I've worked on designing, developing, and maintaining larg
 
 ### ERP Platform
 
-A large-scale business management platform designed around real-world operational workflows.
+A large-scale business management platform designed around real-world operational workflows. I own the majority of the frontend here.
 
 **Key Areas**
 
@@ -214,17 +231,17 @@ A large-scale business management platform designed around real-world operationa
 
 <h1>🎓</h1>
 
-### Cohort Management Platform
+### LMS / Cohort Management Platform
 
-A platform for managing users, cohorts, learning workflows, and AI-powered interactions.
+A platform for managing users, cohorts, and learning workflows — including an AI chat feature I built end-to-end.
 
 **Key Areas**
 
-🔐 Authentication & RBAC
+🤖 RAG Pipeline (Chunking + Retrieval + LLM)
+<br/>🔐 Authentication & RBAC
 <br/>👥 Multi-Cohort Management
 <br/>📊 Dynamic Dashboards
 <br/>🧩 Reusable Component Architecture
-<br/>🤖 LLM-Powered Chat Experience
 
 <br/>
 
@@ -289,6 +306,14 @@ A platform for managing users, cohorts, learning workflows, and AI-powered inter
 
 <br/><br/>
 
+### 🤖 AI / LLM
+
+<img height="55" src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
+<img height="55" src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
 ### 🗄️ Data & Infrastructure
 
 <img height="75" src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,docker,aws"/>
@@ -318,7 +343,7 @@ A platform for managing users, cohorts, learning workflows, and AI-powered inter
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
 
-# 🏆 Achievement
+# 🏆 Achievements
 
 <div align="center">
 
@@ -331,6 +356,12 @@ A platform for managing users, cohorts, learning workflows, and AI-powered inter
 <img height="46" src="https://img.shields.io/badge/🏆_Achievement-2nd_Runner--Up-F59E0B?style=for-the-badge"/>
 &nbsp;
 <img height="46" src="https://img.shields.io/badge/🎨_Category-Creative_Design-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+<img height="46" src="https://img.shields.io/badge/🏅_Shortlisted-Smart_India_Hackathon-2563EB?style=for-the-badge"/>
+&nbsp;
+<img height="46" src="https://img.shields.io/badge/🚌_Project-Bus_Tracking_System-10B981?style=for-the-badge"/>
 
 </div>
 
@@ -353,9 +384,9 @@ A platform for managing users, cohorts, learning workflows, and AI-powered inter
 
 <h1>🧠</h1>
 
-### System Design
+### DSA
 
-Learning how large systems are designed, scaled, and maintained.
+Building strong pattern-based problem-solving in C++ for placements.
 
 </td>
 
@@ -385,7 +416,7 @@ Learning Docker, deployment workflows, infrastructure, and AWS.
 
 ### AI
 
-Experimenting with LLM integrations and AI-powered applications.
+Going deeper on RAG systems, vector search, and LLM-powered products.
 
 </td>
 
@@ -426,7 +457,7 @@ I'm always interested in discussing:
 <img height="38" src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
 <img height="38" src="https://img.shields.io/badge/Backend_Architecture-2563EB?style=for-the-badge"/>
 <img height="38" src="https://img.shields.io/badge/Cloud-0EA5E9?style=for-the-badge"/>
-<img height="38" src="https://img.shields.io/badge/AI_Applications-10B981?style=for-the-badge"/>
+<img height="38" src="https://img.shields.io/badge/RAG_%26_AI_Applications-10B981?style=for-the-badge"/>
 
 <br/><br/>
 
