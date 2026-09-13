@@ -1,480 +1,166 @@
+# Himanshu Patel
+
+Full-Stack Developer focused on **scalable web applications, backend architecture, and AI-powered experiences.**
+
+I'm a Computer Science student and Full Stack Developer who enjoys taking an idea from UI → architecture → APIs → database → deployment and turning it into a complete, production-ready product. My recent work centers on backend architecture and shipping AI features — including Retrieval-Augmented Generation (RAG) pipelines for real LLM-driven chat experiences.
+
+Currently owning frontend development on a production ERP platform and having built an AI chat pipeline for an LMS platform, with a growing focus on backend architecture, cloud infrastructure, and system design.
+
+My interests include:
+
+- Retrieval-Augmented Generation (RAG) & LLM integration
+- Scalable backend architecture
+- Cloud infrastructure & deployment
+- Reusable, type-safe frontend systems
+
+---
+
+# Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshupatel2007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupatel2007)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshupatel.942007@gmail.com)
+
+---
+
+# Experience
+
+**Web Developer Intern — Business Samadhan**
+
+Building software for real-world business workflows, ERP systems, and AI-powered learning tools.
+
+- Owned and drove the majority of frontend development across 5 ERP modules — Products, Inventory, BOM, Quality Control, and Finance
+- Built 60+ reusable React components and 25+ application pages; refactored large pages into modular components to cut feature dev time and shrink the codebase
+- Implemented role-based access control (RBAC) and integrated APIs using Axios + TanStack Query
+- Migrated and built features using TypeScript; packaged web apps as Android apps using Capacitor
+- Designed and implemented a RAG pipeline powering an LLM-driven chat experience for an LMS platform — including document chunking, retrieval logic, and LLM integration for grounded, context-aware answers
+
+---
+
+# Featured Work
+
+**ERP Platform** — a large-scale business management platform covering product & inventory management, production workflows, bill of materials, quality control, dispatch management, and cash/bank books, with permission-based access. I own the majority of the frontend here.
+
+**LMS / Cohort Management Platform** — a platform for managing users, cohorts, and learning workflows, including an AI chat feature I built end-to-end (RAG pipeline: chunking + retrieval + LLM), plus authentication/RBAC and dynamic dashboards.
+
+---
+
+# Tech Stack
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,2,5,12,30&text=HIMANSHU%20PATEL&fontSize=90&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Digital%20Experiences&descAlignY=58&descSize=22&animation=fadeIn"/>
+<table>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+things+for+the+web.;React+%E2%86%92+TypeScript+%E2%86%92+Node.js;Shipping+RAG-powered+AI+features.;From+idea+to+production."/>
-</a>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</td>
+</tr>
 
-<a href="https://linkedin.com/in/himanshupatel2007">
-  <img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="mailto:himanshupatel.942007@gmail.com">
-  <img height="42" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-&nbsp;
-<a href="https://github.com/himanshupatel2007">
-  <img height="42" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td align="center"><b>AI / LLM</b></td>
+<td>
+<img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</td>
+</tr>
 
-<img height="34" src="https://komarev.com/ghpvc/?username=himanshupatel2007&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-&nbsp;
-<img height="34" src="https://img.shields.io/github/followers/himanshupatel2007?label=FOLLOWERS&style=for-the-badge&color=2563EB&logo=github&logoColor=white"/>
-&nbsp;
-<img height="34" src="https://img.shields.io/github/stars/himanshupatel2007?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=F59E0B&logo=star&logoColor=white"/>
+<tr>
+<td align="center"><b>Data & DB</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</td>
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
+# GitHub Stats
 
-<br/>
-
-## 👨‍💻 About Me
-
-```ts
-const developer = {
-  name: "Himanshu Patel",
-  role: "Full Stack Developer",
-
-  building: [
-    "Scalable Web Applications",
-    "Developer-Focused Products",
-    "AI-Powered Experiences (RAG + LLMs)"
-  ],
-
-  currentlyLearning: [
-    "Advanced TypeScript",
-    "Backend Architecture",
-    "System Design",
-    "Cloud Infrastructure"
-  ],
-
-  philosophy: "Build → Break → Learn → Improve"
-};
-```
-
-I'm a Computer Science student and Full Stack Developer focused on building **practical, scalable, and maintainable applications** — including AI-powered features like Retrieval-Augmented Generation (RAG) pipelines.
-
-I enjoy taking an idea from **UI → architecture → APIs → database → deployment** and turning it into a complete product.
-
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td align="center" width="20%">
-
-### ⚙️
-**Backend Architecture**
-<br/>& System Design
-
+<td>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=dark&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=2563EB"/>
 </td>
-<td align="center" width="20%">
-
-### ☁️
-**Cloud Infrastructure**
-<br/>& Deployment
-
+<td>
+<img height="180" src="https://streak-stats.demolab.com?user=himanshupatel2007&background=0D1117&border=7C3AED&stroke=7C3AED&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&currStreakLabel=F59E0B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
 </td>
-<td align="center" width="20%">
-
-### 🗄️
-**Databases**
-<br/>& Data Modeling
-
-</td>
-<td align="center" width="20%">
-
-### 🤖
-**AI & LLM**
-<br/>RAG Pipelines & Chat
-
-</td>
-<td align="center" width="20%">
-
-### 🚀
-**Production-Ready**
-<br/>Web Products
-
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=dark&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚡ By The Numbers
+# Achievements
 
-<div align="center">
+[![2nd Runner-Up](https://img.shields.io/badge/🏆_2nd_Runner--Up-IEEE_Logo_Design_Competition-F59E0B?style=for-the-badge)]()
+[![Shortlisted](https://img.shields.io/badge/🏅_Shortlisted-Smart_India_Hackathon-2563EB?style=for-the-badge)]()
 
-<table>
-<tr>
-<td align="center" width="20%">
-<h1>🧩</h1>
-<h1><b>60+</b></h1>
-Reusable UI Components
-</td>
-<td align="center" width="20%">
-<h1>📄</h1>
-<h1><b>25+</b></h1>
-Application Screens
-</td>
-<td align="center" width="20%">
-<h1>🚀</h1>
-<h1><b>2+</b></h1>
-Production Platforms
-</td>
-<td align="center" width="20%">
-<h1>🤖</h1>
-<h1><b>1</b></h1>
-RAG Pipeline Shipped
-</td>
-<td align="center" width="20%">
-<h1>🔐</h1>
-<h1><b>RBAC</b></h1>
-Role-Based Access
-</td>
-</tr>
-</table>
+---
 
-</div>
+# Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
+- Shipping and refining RAG pipelines, vector search, and LLM-powered features
+- Deepening backend architecture with NestJS, APIs, authentication, and caching
+- Learning Docker, cloud deployment workflows, and AWS infrastructure
+- Sharpening pattern-based DSA problem-solving in C++ for placements
 
-## 💼 Experience
+---
 
-<div align="center">
-<img height="80" src="https://skillicons.dev/icons?i=react"/>
-</div>
+# Philosophy
 
-### 🏢 Web Developer Intern — Business Samadhan
-
-> Building software for real-world business workflows, ERP systems, and AI-powered learning tools.
-
-During my internship, I've owned the majority of frontend development on a production ERP application, and separately designed and built a Retrieval-Augmented Generation (RAG) pipeline for an LMS platform's AI chat experience.
-
-**ERP Platform — what I've worked on:**
-
-| | |
-|---|---|
-| 🚀 | Owned and drove the majority of frontend development across **5 ERP modules** |
-| 🧩 | Developed **60+ reusable React components**, cutting new feature dev time |
-| 📄 | Built **25+ application pages** |
-| 📉 | Refactored large pages into modular components, reducing codebase size |
-| 🔐 | Implemented role-based access control |
-| ⚡ | Integrated APIs using **Axios + TanStack Query** |
-| 🟦 | Migrated and developed features using **TypeScript** |
-| 📦 | Worked on **Products, Inventory, BOM, Quality Control & Finance** |
-| 📱 | Packaged web applications as Android apps using **Capacitor** |
-| 📊 | Built search, filters, CSV import/export, tables and dashboards |
-
-**LMS Platform — AI / RAG work:**
-
-| | |
-|---|---|
-| 🤖 | Designed and implemented a **RAG pipeline** powering an LLM-driven chat experience |
-| ✂️ | Built document chunking and retrieval logic for context-aware AI responses |
-| 🔗 | Integrated the retrieval layer with an LLM to generate grounded answers |
-| 🐛 | Resolved frontend and backend issues across both platforms |
-
-<div align="center">
-
-**Core Stack**
-
-<img height="55" src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
-&nbsp;&nbsp;
-<img height="55" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-&nbsp;
-<img height="55" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-&nbsp;
-<img height="55" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-&nbsp;
-<img height="55" src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 🚀 Featured Work
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<h1>🏭</h1>
-
-### ERP Platform
-
-A large-scale business management platform designed around real-world operational workflows. I own the majority of the frontend here.
-
-**Key Areas**
-
-📦 Product & Inventory Management
-<br/>🏭 Production Workflows
-<br/>📋 Bill of Materials
-<br/>🔍 Quality Control
-<br/>🚚 Dispatch Management
-<br/>💰 Cash & Bank Books
-<br/>🔐 Permission-Based Access
-
-<br/>
-
-<img height="48" src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h1>🎓</h1>
-
-### LMS / Cohort Management Platform
-
-A platform for managing users, cohorts, and learning workflows — including an AI chat feature I built end-to-end.
-
-**Key Areas**
-
-🤖 RAG Pipeline (Chunking + Retrieval + LLM)
-<br/>🔐 Authentication & RBAC
-<br/>👥 Multi-Cohort Management
-<br/>📊 Dynamic Dashboards
-<br/>🧩 Reusable Component Architecture
-
-<br/>
-
-<img height="48" src="https://skillicons.dev/icons?i=react,ts,tailwind"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🧠 What I Care About When Building Projects
-
-<img height="34" src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge"/>
-
-⬇️
-
-<img height="34" src="https://img.shields.io/badge/Reusable_Components-8B5CF6?style=for-the-badge"/>
-
-⬇️
-
-<img height="34" src="https://img.shields.io/badge/Type_Safety-6366F1?style=for-the-badge"/>
-
-⬇️
-
-<img height="34" src="https://img.shields.io/badge/Scalable_APIs-2563EB?style=for-the-badge"/>
-
-⬇️
-
-<img height="34" src="https://img.shields.io/badge/Good_Developer_Experience-0EA5E9?style=for-the-badge"/>
-
-⬇️
-
-<img height="34" src="https://img.shields.io/badge/Production_Deployment-10B981?style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-<img height="75" src="https://skillicons.dev/icons?i=js,ts,cpp,c,html,css"/>
-
-<br/><br/>
-
-### 🎨 Frontend
-
-<img height="75" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-
-<br/><br/>
-
-### ⚙️ Backend
-
-<img height="75" src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
-<br/><br/>
-
-### 🤖 AI / LLM
-
-<img height="55" src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-&nbsp;
-<img height="55" src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br/><br/>
-
-### 🗄️ Data & Infrastructure
-
-<img height="75" src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,docker,aws"/>
-
-<br/><br/>
-
-### 🔧 Developer Tools
-
-<img height="75" src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=C9D1D9&rank_icon=github&count_private=true"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=himanshupatel2007&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=2563EB&sideLabels=C9D1D9&dates=8B949E"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 🏆 Achievements
-
-<div align="center">
-
-<h1>🥈</h1>
-
-## 2nd Runner-Up
-
-## IEEE Logo Design Competition
-
-<img height="46" src="https://img.shields.io/badge/🏆_Achievement-2nd_Runner--Up-F59E0B?style=for-the-badge"/>
-&nbsp;
-<img height="46" src="https://img.shields.io/badge/🎨_Category-Creative_Design-7C3AED?style=for-the-badge"/>
-
-<br/><br/>
-
-<img height="46" src="https://img.shields.io/badge/🏅_Shortlisted-Smart_India_Hackathon-2563EB?style=for-the-badge"/>
-&nbsp;
-<img height="46" src="https://img.shields.io/badge/🚌_Project-Bus_Tracking_System-10B981?style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 🌱 Currently Leveling Up
-
-<div align="center">
-
-<img height="75" src="https://skillicons.dev/icons?i=ts,nestjs,postgres,redis,docker,aws"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-<h1>🧠</h1>
-
-### DSA
-
-Building strong pattern-based problem-solving in C++ for placements.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>⚙️</h1>
-
-### Backend
-
-Exploring NestJS, APIs, authentication, caching, and architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>☁️</h1>
-
-### Cloud
-
-Learning Docker, deployment workflows, infrastructure, and AWS.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>🤖</h1>
-
-### AI
-
-Going deeper on RAG systems, vector search, and LLM-powered products.
-
-</td>
-
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatel2007&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=F59E0B&area=true&hide_border=true"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,30&height=4"/>
-
-# 🐍 Watch The Contributions Move
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/himanshupatel2007/himanshupatel2007/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=120&section=header"/>
-
-<div align="center">
-
-## 🤝 Let's Build Something Interesting
-
-I'm always interested in discussing:
-
-<img height="38" src="https://img.shields.io/badge/Full_Stack_Development-7C3AED?style=for-the-badge"/>
-<img height="38" src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
-<img height="38" src="https://img.shields.io/badge/Backend_Architecture-2563EB?style=for-the-badge"/>
-<img height="38" src="https://img.shields.io/badge/Cloud-0EA5E9?style=for-the-badge"/>
-<img height="38" src="https://img.shields.io/badge/RAG_%26_AI_Applications-10B981?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="mailto:himanshupatel.942007@gmail.com">
-<img height="55" src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/himanshupatel2007">
-<img height="55" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-# *"Build. Break. Learn. Improve."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,2,5,12,30"/>
-
-</div>
+> Build → Break → Learn → Improve.
