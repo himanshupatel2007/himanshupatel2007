@@ -116,7 +116,6 @@ I designed and implemented the AI chat pipeline end-to-end, focusing on retrievi
 <td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 </td>
 </tr>
@@ -133,8 +132,6 @@ I designed and implemented the AI chat pipeline end-to-end, focusing on retrievi
 <td align="center"><b>Data & DB</b></td>
 <td>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
 </td>
 </tr>
@@ -205,7 +202,7 @@ I designed and implemented the AI chat pipeline end-to-end, focusing on retrievi
 # Current Focus
 
 * Shipping and refining **RAG pipelines, vector search, and LLM-powered features**
-* Deepening backend architecture with **NestJS, APIs, authentication, and caching**
+* Deepening backend architecture with **APIs, authentication, and caching**
 * Learning and implementing **Docker, VPS deployment, CI/CD, and cloud infrastructure**
 * Working with **Linux servers, Nginx, Hostinger VPS, and Cloudflare**
 * Improving understanding of **system design and scalable application architecture**
