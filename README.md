@@ -1,215 +1,57 @@
-# Himanshu Patel
+# Hi, I'm Himanshu Patel 👋
 
-Full-Stack Developer focused on **scalable web applications, backend architecture, AI-powered experiences, and deployment infrastructure.**
+**Full-stack developer (React · TypeScript · Node.js)** and B.Tech CSE student (2028).
+I build production frontends, and I'm getting deeper into backend, deployment, and LLM-powered features.
 
-I'm a Computer Science student and Full Stack Developer who enjoys taking an idea from **UI → architecture → APIs → database → deployment** and turning it into a complete, production-ready product.
-
-My recent work centers on **backend architecture, RAG pipelines, LLM integration, and production software development**. I've worked on real-world ERP systems, LMS platforms, AI-powered chat experiences, and deployment workflows.
-
-Currently owning frontend development on a production ERP platform and having built an AI chat pipeline for an LMS platform, with a growing focus on **backend architecture, cloud infrastructure, DevOps, and system design.**
-
-My interests include:
-
-* Retrieval-Augmented Generation (RAG) & LLM integration
-* Scalable backend architecture
-* Cloud infrastructure & deployment
-* CI/CD & DevOps
-* Reusable, type-safe frontend systems
-* System design & distributed applications
+[LinkedIn](https://linkedin.com/in/himanshupatel2007) · [Email](mailto:himanshupatel.942007@gmail.com) · [Resume](#) <!-- add resume link -->
 
 ---
 
-# Connect With Me
+## What I do at work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/himanshupatel2007)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/himanshupatel2007)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:himanshupatel.942007@gmail.com)
+**Web Developer Intern, Business Samadhan**
 
----
-
-# Experience
-
-### Web Developer Intern — Business Samadhan
-
-Building software for real-world business workflows, ERP systems, and AI-powered learning tools.
-
-* Owned and drove the majority of frontend development across **5 ERP modules** — Products, Inventory, BOM, Quality Control, and Finance
-* Built **60+ reusable React components** and **25+ application pages**; refactored large pages into modular components to improve maintainability and reduce feature development time
-* Implemented **role-based access control (RBAC)** and integrated APIs using Axios + TanStack Query
-* Migrated and built features using **TypeScript** while improving type safety across the application
-* Packaged web applications as **Android apps using Capacitor**
-* Managed **frontend VPS deployment, Nginx configuration, and Cloudflare integration**, optimizing request delivery and reducing observed response times from approximately **1 second to ~200ms**
-* Designed and implemented a **RAG pipeline** powering an LLM-driven chat experience for an LMS platform, including document chunking, retrieval logic, and LLM integration for grounded, context-aware answers
-* Contributed to performance optimization, bug fixing, large-data workflows, and production feature delivery
+- Own most of the frontend of a production **ERP** across 5 modules: Products, Inventory, BOM, Quality Control, Finance.
+- Built **60+ reusable React components** and **25+ pages**; broke large pages into modular pieces to speed up feature work.
+- Implemented **role-based access control** and API integration with Axios + TanStack Query. Migrated parts of the codebase to **TypeScript**.
+- Deployed the frontend on a **Linux VPS** with **Nginx + Cloudflare**; response times dropped from ~1s to ~200ms (measured on [state how: page load / API / TTFB]).
+- Packaged the web app as an **Android app with Capacitor**.
+- Built a **RAG pipeline** for an LMS chat feature: document chunking, retrieval, and LLM answers grounded in retrieved context.
 
 ---
 
-# Featured Work
+## Projects
 
-### ERP Platform
-
-A large-scale business management platform covering:
-
-* Product & inventory management
-* Production workflows
-* Bill of Materials (BOM)
-* Quality Control
-* Dispatch management
-* Cash & bank management
-* Permission-based access control
-
-I own the majority of the frontend development, including reusable UI architecture, API integration, permissions, application workflows, and production features.
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **ERP Platform** (work) | Business management platform with RBAC and multi-module workflows. Closed source. | React, TypeScript, TanStack Query | – |
+| **LMS AI Chat** (work) | Chat that answers from uploaded course documents using RAG. Closed source. | Node.js, LLM API, [vector store] | – |
+| **URL Shortener** | REST API with unique short codes and redirects. | Node, Express, MongoDB | [Live](#) · [Code](#) |
+| **[Your next project]** | Add one backend-heavy project with a README, diagram, and live link. | | |
 
 ---
 
-### LMS / Cohort Management Platform
+## Tech
 
-A platform for managing users, cohorts, and learning workflows, including an AI-powered chat experience.
+**Use daily:** JavaScript, TypeScript, React, Tailwind CSS, TanStack Query, Node.js, Express, MongoDB
 
-Key areas:
+**Working knowledge:** REST APIs, JWT auth, Nginx, Linux, Cloudflare, AWS (S3, Lambda), Git
 
-* Authentication & RBAC
-* Dynamic dashboards
-* Cohort management
-* User management
-* Learning workflows
-* AI-powered chat
-* RAG pipeline
-* Document chunking
-* Context retrieval
-* LLM integration
-
-I designed and implemented the AI chat pipeline end-to-end, focusing on retrieving relevant context before generating responses to provide grounded answers.
+**Learning:** C++ and DSA, SQL, Docker, CI/CD, system design basics
 
 ---
 
-# Tech Stack
+## Highlights
 
-<div align="center">
-
-<table>
-
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>AI / LLM</b></td>
-<td>
-<img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Data & DB</b></td>
-<td>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Deployment</b></td>
-<td>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=serverfault&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Dev Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</td>
-</tr>
-
-</table>
-
-</div>
+- 🏆 2nd Runner-Up, IEEE Logo Design Competition
+- 🏅 Shortlisted, Smart India Hackathon
 
 ---
 
-# GitHub Stats
+## Right now
 
-<table align="center">
-<tr>
-<td>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshupatel2007&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=dark&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=2563EB"/>
-</td>
-<td>
-<img height="180" src="https://streak-stats.demolab.com?user=himanshupatel2007&background=0D1117&border=7C3AED&stroke=7C3AED&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&currStreakLabel=F59E0B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
-</td>
-</tr>
+- Solving DSA problems in C++ by pattern
+- Strengthening backend: auth, validation, caching, SQL
+- Setting up Docker and CI/CD for my own projects
 
-<tr>
-<td colspan="2" align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel2007&layout=compact&theme=dark&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
-</td>
-</tr>
-</table>
-
----
-
-# Achievements
-
-[![2nd Runner-Up](https://img.shields.io/badge/🏆_2nd_Runner--Up-IEEE_Logo_Design_Competition-F59E0B?style=for-the-badge)]()
-[![Shortlisted](https://img.shields.io/badge/🏅_Shortlisted-Smart_India_Hackathon-2563EB?style=for-the-badge)]()
-
----
-
-# Current Focus
-
-* Shipping and refining **RAG pipelines, vector search, and LLM-powered features**
-* Deepening backend architecture with **APIs, authentication, and caching**
-* Learning and implementing **Docker, VPS deployment, CI/CD, and cloud infrastructure**
-* Working with **Linux servers, Nginx, Hostinger VPS, and Cloudflare**
-* Improving understanding of **system design and scalable application architecture**
-* Sharpening **pattern-based DSA problem-solving in C++** for placements
-
----
-
-# Philosophy
-
-> **Build → Break → Learn → Improve.**
+*Build → Break → Learn → Improve.*
