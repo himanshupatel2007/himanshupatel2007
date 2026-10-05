@@ -1,57 +1,67 @@
-# Hi, I'm Himanshu Patel 👋
+```bash
+$ whoami
+himanshu-patel
 
-**Full-stack developer (React · TypeScript · Node.js)** and B.Tech CSE student (2028).
-I build production frontends, and I'm getting deeper into backend, deployment, and LLM-powered features.
+$ cat profile.txt
+role     : Full-stack developer (React · TypeScript · Node.js)
+status   : B.Tech CSE, class of 2028
+current  : Web Developer Intern @ Business Samadhan
+focus    : backend depth, DSA in C++, shipping things that stay up
+```
 
-[LinkedIn](https://linkedin.com/in/himanshupatel2007) · [Email](mailto:himanshupatel.942007@gmail.com) · [Resume](#) <!-- add resume link -->
-
----
-
-## What I do at work
-
-**Web Developer Intern, Business Samadhan**
-
-- Own most of the frontend of a production **ERP** across 5 modules: Products, Inventory, BOM, Quality Control, Finance.
-- Built **60+ reusable React components** and **25+ pages**; broke large pages into modular pieces to speed up feature work.
-- Implemented **role-based access control** and API integration with Axios + TanStack Query. Migrated parts of the codebase to **TypeScript**.
-- Deployed the frontend on a **Linux VPS** with **Nginx + Cloudflare**; response times dropped from ~1s to ~200ms (measured on [state how: page load / API / TTFB]).
-- Packaged the web app as an **Android app with Capacitor**.
-- Built a **RAG pipeline** for an LMS chat feature: document chunking, retrieval, and LLM answers grounded in retrieved context.
+[LinkedIn](https://linkedin.com/in/himanshupatel2007) · [Email](mailto:himanshupatel.942007@gmail.com) · [Resume](#)
 
 ---
 
-## Projects
+## 🧯 Problems I've worked on
 
-| Project | What it is | Stack | Links |
+### 1. A production ERP with too much UI to maintain
+**Problem:** 5 modules (Products, Inventory, BOM, Quality Control, Finance) and large, hard-to-change pages.
+**What I did:** Broke big pages into modular pieces and built 60+ reusable components (forms, tables, workflows) across 25+ pages. Added role-based access control, integrated APIs with Axios + TanStack Query, and migrated parts of the codebase to TypeScript.
+**Result:** New features ship faster because they're assembled from existing pieces instead of written from scratch.
+
+### 2. A frontend that felt slow
+**Problem:** Pages took around 1s to respond.
+**What I did:** Deployed on a Linux VPS behind Nginx + Cloudflare.
+**Result:** ~1s → ~200ms (`measured as: <page load / API / TTFB>`).
+
+### 3. Making an LMS answer from its own course material
+**Problem:** Generic LLM answers weren't grounded in the uploaded documents.
+**What I did:** Built a RAG pipeline with document chunking, retrieval, and context-grounded LLM responses.
+**Result:** Chat answers come from the course content, not guesswork.
+
+### 4. One web app, two platforms
+**What I did:** Packaged the ERP web app as an Android app using Capacitor.
+
+---
+
+## 🧪 Side projects
+
+| Project | What it does | Stack | Links |
 |---|---|---|---|
-| **ERP Platform** (work) | Business management platform with RBAC and multi-module workflows. Closed source. | React, TypeScript, TanStack Query | – |
-| **LMS AI Chat** (work) | Chat that answers from uploaded course documents using RAG. Closed source. | Node.js, LLM API, [vector store] | – |
-| **URL Shortener** | REST API with unique short codes and redirects. | Node, Express, MongoDB | [Live](#) · [Code](#) |
-| **[Your next project]** | Add one backend-heavy project with a README, diagram, and live link. | | |
+| **URL Shortener** | REST API with unique short codes and redirects | Node, Express, MongoDB | [Live](#) · [Code](#) |
 
 ---
 
-## Tech
+## 🛠️ Toolbox
 
-**Use daily:** JavaScript, TypeScript, React, Tailwind CSS, TanStack Query, Node.js, Express, MongoDB
-
-**Working knowledge:** REST APIs, JWT auth, Nginx, Linux, Cloudflare, AWS (S3, Lambda), Git
-
-**Learning:** C++ and DSA, SQL, Docker, CI/CD, system design basics
-
----
-
-## Highlights
-
-- 🏆 2nd Runner-Up, IEEE Logo Design Competition
-- 🏅 Shortlisted, Smart India Hackathon
+```text
+daily     → JavaScript, TypeScript, React, Tailwind, TanStack Query, Node, Express, MongoDB
+comfortable → REST, JWT, Nginx, Linux, Cloudflare, AWS (S3, Lambda), Git
+in progress → C++ / DSA, SQL, Docker, CI/CD, system design basics
+```
 
 ---
 
-## Right now
+## 📍 Currently running
 
-- Solving DSA problems in C++ by pattern
-- Strengthening backend: auth, validation, caching, SQL
-- Setting up Docker and CI/CD for my own projects
+```text
+[■■■■■□□□□□]  DSA in C++, by pattern
+[■■■□□□□□□□]  Backend: auth, validation, caching, SQL
+[■■□□□□□□□□]  Docker + CI/CD on my own projects
+```
+
+## 🏆 Also
+2nd Runner-Up, IEEE Logo Design Competition · Shortlisted, Smart India Hackathon
 
 *Build → Break → Learn → Improve.*
