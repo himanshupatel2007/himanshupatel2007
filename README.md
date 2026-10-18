@@ -1,84 +1,92 @@
 <h1 align="center">Himanshu Patel</h1>
 
 <p align="center">
-  Full-stack developer · React, TypeScript, Node.js<br>
-  B.Tech CSE '28 · Web Developer Intern @ Business Samadhan · Jabalpur, India
+  Full-stack developer (React, TypeScript, Node.js)<br>
+  B.Tech CSE '28 · Web Developer Intern at Business Samadhan · Jabalpur, India
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshupatel2007">LinkedIn</a> ·
   <a href="mailto:himanshupatel.942007@gmail.com">Email</a> ·
   <a href="YOUR_RESUME_PDF_LINK">Resume</a>
-  <!-- TODO: upload resume PDF (Drive public link or in-repo file) and replace YOUR_RESUME_PDF_LINK -->
 </p>
 
 ---
 
 ## About
 
-I build and maintain production web apps. Right now that means a multi-module ERP at Business Samadhan, where I own a large share of the frontend and work across the API layer and deployment.
+I build and ship production web apps. At Business Samadhan I own a large share of the frontend of a multi-module ERP, and I also work on the API layer and deployment.
 
-Currently strengthening: **backend fundamentals, SQL, and DSA in C++**.
+**Currently working on:** backend fundamentals, SQL, and DSA in C++.
 
 ---
 
-## Work
+## Experience
 
-### Production ERP · Business Samadhan
-*Web Developer Intern*
+### Web Developer Intern · Business Samadhan
 
-An ERP with 5 modules (Products, Inventory, BOM, Quality Control, Finance) and 25+ pages.
+**Production ERP**: 5 modules (Products, Inventory, BOM, Quality Control, Finance), 25+ pages
 
-- Built **60+ reusable components** (forms, tables, workflow screens) and split oversized pages into modules, so new features are assembled from existing pieces
+- Built **60+ reusable components** (forms, tables, workflow screens); split oversized pages into modules so new features are assembled from existing parts
 - Implemented **role-based access control** across modules
-- Integrated REST APIs using **Axios + TanStack Query**
-- Migrated parts of the codebase from JavaScript to **TypeScript**
-- Deployed on a **Linux VPS behind Nginx + Cloudflare**, bringing response time from ~1s to ~200ms
-  <!-- TODO: state exactly what was measured (TTFB / page load / API latency) and how, or delete the numbers -->
-- Packaged the web app as an **Android app using Capacitor**
+- Integrated REST APIs with **Axios + TanStack Query**
+- Migrated parts of the codebase from **JavaScript to TypeScript**
+- Deployed on a **Linux VPS behind Nginx + Cloudflare**
+- Packaged the web app as an **Android app with Capacitor**
 
-### LMS with RAG · Business Samadhan
-Built a retrieval-augmented generation pipeline so the LMS chat answers from uploaded course material instead of generic LLM output.
+**LMS with RAG**
 
-- Document chunking and retrieval
-- Context-grounded LLM responses
+- Built a retrieval-augmented generation pipeline so the LMS chat answers from uploaded course material instead of generic LLM output
+- Handled document chunking, retrieval, and context-grounded LLM responses
 
 ---
 
 ## Projects
 
-| Project | What it shows | Stack | Links |
+| Project | What it demonstrates | Stack | Links |
 |---|---|---|---|
-| **URL Shortener** | REST API design, unique short-code generation, redirects | Node, Express, MongoDB, Mongoose | [Live](YOUR_LIVE_LINK) · [Code](YOUR_REPO_LINK) |
+| **URL Shortener** | REST API design, unique short-code generation, redirects, deployment | Node.js, Express, MongoDB | [Live](YOUR_LIVE_LINK) · [Code](YOUR_REPO_LINK) |
 
-<!-- TODO: add your next backend-heavy project here (auth + roles, SQL, caching, rate limiting). Do not pad this section with weak projects. -->
+> Next up: a backend-heavy project with auth + roles, SQL, caching, and rate limiting.
 
 ---
 
-## Stack
+## Tech
 
-| | |
-|---|---|
-| **Daily** | JavaScript, TypeScript, React, Tailwind CSS, TanStack Query, React Hook Form, Zod, Node.js, Express, MongoDB |
-| **Working knowledge** | REST APIs, JWT auth, Nginx, Linux, Cloudflare, AWS (S3, Lambda), Git, Postman |
-| **Learning** | C++ / DSA, SQL, Docker, CI/CD |
+<table>
+  <tr>
+    <td><b>Daily</b></td>
+    <td>JavaScript · TypeScript · React · Tailwind CSS · TanStack Query · React Hook Form · Zod · Node.js · Express · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Working knowledge</b></td>
+    <td>REST APIs · JWT auth · Nginx · Linux · Cloudflare · AWS (S3, Lambda) · Git · Postman</td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>C++ / DSA · SQL · Docker · CI/CD</td>
+  </tr>
+</table>
 
 ---
 
 ## Currently
 
-- **DSA in C++:** YOUR_COUNT problems solved, by pattern ([LeetCode](YOUR_LEETCODE_LINK))
-- **Backend:** auth, validation, caching, SQL
+| Focus | Progress |
+|---|---|
+| **DSA (C++)** | 50+ problems solved, working through patterns in order · [LeetCode](YOUR_LEETCODE_LINK) |
+| **Backend** | Auth, validation, caching |
+| **SQL** | Joins, indexes, schema design |
 
 ---
 
-## Achievements
+## Recognition
 
-- 2nd Runner-Up, IEEE Logo Design Competition
 - Shortlisted, Smart India Hackathon
+- 2nd Runner-Up, IEEE Logo Design Competition
 
 ---
 
 <p align="center">
-  <b>Build → Break → Learn → Improve.</b>
+  Open to internship and SDE opportunities. <a href="mailto:himanshupatel.942007@gmail.com">Get in touch</a>.
 </p>
